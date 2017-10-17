@@ -1,0 +1,54 @@
+* {
+	box-sizing: border-box;
+	font-family: "Arial", "Helvetica Neue", "Helvetica", sans-serif;
+	font-size: 18px;
+	padding: 20px;
+	text-align: center;
+	margin: 10px;
+}
+
+body {
+	background: #777;
+
+}
+
+header {
+	background: white;
+	padding: 5px;
+}
+
+nav {
+	background: white;
+}
+
+section {
+	background: white;
+	float: left;
+	width: 50%;
+	padding-top: 10px;
+}
+
+article {
+	background: #777;
+	padding: 5px;
+}
+
+aside {
+	background: white;
+	float: left;
+	width: 46.5%;
+	height: 304px;
+}
+
+p {
+	background: white;
+	padding: 10px;
+	padding-top: 5px;
+}
+
+footer {
+	background: white;
+	clear: both;
+}
+
+
